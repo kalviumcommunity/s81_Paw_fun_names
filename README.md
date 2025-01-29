@@ -25,8 +25,7 @@ Tech stack:
 
 Frontend
 Framework/Library:React.js 
-Styling:Tailwind CSS
-State Management:Redux Toolkit 
+Styling:Tailwind CSS 
 Geolocation API:Google Maps API or GeoIP 
 
 Backend
